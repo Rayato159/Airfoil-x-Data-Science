@@ -7,6 +7,6 @@ organizer:
 1. Mr.Watcharapon Khamkum (Project Manager)
 2. Mr.Ruangyot Nanchiang (Data Analytics) 
 3. Mr.Sahassawat Rattanamongkolkul (Simulation)
-4. Mr. Sumet Phompithak (Simulation)
+4. Mr.Sumet Phompithak (Simulation)
 5. Mr.Nawatchai Chiyangkaboot (Checker & Reporter)
 6. Mr.Jirawong Prapprajit (Checker & Reporter)
